@@ -11,7 +11,6 @@ function App() {
         </p>
         <a>
           <div data-tf-live="01HE11C4S6DXGZGAFTA7AANM29"></div>
-          <script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script>
         </a>
       </header>
     </div>
